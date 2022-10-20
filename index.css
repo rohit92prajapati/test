@@ -1,0 +1,42 @@
+#mainflex {
+  padding: 20px;
+  border-bottom: 2px solid #2dd35c;
+  border-top: 2px solid #2dd35c;
+  border-right: 2px solid #2dd35c;
+  border-top-right-radius: 500px;
+  width: 70%;
+}
+#rightmainflex {
+  height: 100px;
+  width: 50%;
+  background: rgba(100, 110, 113, 0.604);
+  position: absolute;
+  right: 10px;
+  top: 40px;
+  border-top-left-radius: 500px;
+}
+.btnfree {
+  height: 36px;
+  padding: 10px;
+  background-color: #2dd35c;
+  border-radius: 20px;
+  margin-right: 10px;
+}
+.btndemo {
+  height: 36px;
+  padding: 10px;
+  color: #5553b7;
+  border-radius: 20px;
+  background-color: white;
+}
+.ecommerce {
+  color: #5553b7;
+  font-size: 2rem;
+  margin: 0px;
+  margin-bottom: 10px;
+}
+.ready {
+  margin: 0px;
+  font-size: 2rem;
+  margin-bottom: 5px;
+}
